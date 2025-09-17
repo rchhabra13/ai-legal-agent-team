@@ -54,3 +54,5 @@ A Streamlit application that simulates a full-service legal team using multiple 
 - Uses text-embedding-3-small for embeddings
 - Requires stable internet connection
 - API usage costs apply
+
+<!-- Updated: 2025-09-16 -->
